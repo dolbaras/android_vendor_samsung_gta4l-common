@@ -129,7 +129,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/gta4l-common/proprietary/vendor/etc/acdbdata/QRD_swa/QRD_swa_workspaceFile.qwsp:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/QRD_swa/QRD_swa_workspaceFile.qwsp \
     vendor/samsung/gta4l-common/proprietary/vendor/etc/camera/camxoverridesettings.txt:$(TARGET_COPY_OUT_VENDOR)/etc/camera/camxoverridesettings.txt \
     vendor/samsung/gta4l-common/proprietary/vendor/etc/data/dsi_config.xml:$(TARGET_COPY_OUT_VENDOR)/etc/data/dsi_config.xml \
-    vendor/samsung/gta4l-common/proprietary/vendor/etc/dolby/dax-default.xml:$(TARGET_COPY_OUT_VENDOR)/etc/dolby/dax-default.xml \
     vendor/samsung/gta4l-common/proprietary/vendor/etc/flp.conf:$(TARGET_COPY_OUT_VENDOR)/etc/flp.conf \
     vendor/samsung/gta4l-common/proprietary/vendor/etc/gnss_antenna_info.conf:$(TARGET_COPY_OUT_VENDOR)/etc/gnss_antenna_info.conf \
     vendor/samsung/gta4l-common/proprietary/vendor/etc/gpfspath_oem_config.xml:$(TARGET_COPY_OUT_VENDOR)/etc/gpfspath_oem_config.xml \
@@ -628,7 +627,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/gta4l-common/proprietary/vendor/lib/soundfx/libqcreverb.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libqcreverb.so \
     vendor/samsung/gta4l-common/proprietary/vendor/lib/soundfx/libqcvirt.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libqcvirt.so \
     vendor/samsung/gta4l-common/proprietary/vendor/lib/soundfx/libshoebox.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libshoebox.so \
-    vendor/samsung/gta4l-common/proprietary/vendor/lib/soundfx/libswdap.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libswdap.so \
     vendor/samsung/gta4l-common/proprietary/vendor/lib/vendor.display.color@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib/vendor.display.color@1.0.so \
     vendor/samsung/gta4l-common/proprietary/vendor/lib/vendor.display.color@1.1.so:$(TARGET_COPY_OUT_VENDOR)/lib/vendor.display.color@1.1.so \
     vendor/samsung/gta4l-common/proprietary/vendor/lib/vendor.display.color@1.2.so:$(TARGET_COPY_OUT_VENDOR)/lib/vendor.display.color@1.2.so \
@@ -1082,7 +1080,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/gta4l-common/proprietary/vendor/lib64/soundfx/libqcreverb.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libqcreverb.so \
     vendor/samsung/gta4l-common/proprietary/vendor/lib64/soundfx/libqcvirt.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libqcvirt.so \
     vendor/samsung/gta4l-common/proprietary/vendor/lib64/soundfx/libshoebox.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libshoebox.so \
-    vendor/samsung/gta4l-common/proprietary/vendor/lib64/soundfx/libswdap.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libswdap.so \
     vendor/samsung/gta4l-common/proprietary/vendor/lib64/vendor.display.color@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.display.color@1.0.so \
     vendor/samsung/gta4l-common/proprietary/vendor/lib64/vendor.display.color@1.1.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.display.color@1.1.so \
     vendor/samsung/gta4l-common/proprietary/vendor/lib64/vendor.display.color@1.2.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.display.color@1.2.so \
